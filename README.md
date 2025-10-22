@@ -6,10 +6,10 @@
 - 
 ## :zap: GitHub Stats
 <p align="center">
-  <img width="300" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only'>
-  <img width="300" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-dark-mode-only'>
-  <img width="300" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-light-mode-only'>
-  <img width="300" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-light-mode-only'>
+  <img width="250" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only'>
+  <img width="250" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-dark-mode-only'>
+  <img width="250" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-light-mode-only'>
+  <img width="250" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-light-mode-only'>
 </p>
 
 <br clear="both" />
