@@ -10,13 +10,13 @@
 - 🖥️ Currently, I’m focused on learning <img src="https://github.com/Vo-Dinh-Quan/Vo-Dinh-Quan/blob/main/images/nextjs-13.svg#gh-light-mode-only" width="50" /><img src="https://github.com/Vo-Dinh-Quan/Vo-Dinh-Quan/blob/main/images/nextjs-13-white.svg#gh-dark-mode-only" width="50" />, <img src="https://github.com/Vo-Dinh-Quan/Vo-Dinh-Quan/blob/main/images/nodejs-text1.svg?raw=true" width="60" /> and **Microservice Architectures**, exploring their ecosystems and applying them to real-world projects to sharpen my web development skills.
 
 
+
+### :zap: GitHub Stats
 <p align="center">
   <img src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only'>
   <img src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-dark-mode-only'>
-  <img src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-light-mode-only'>
+    <img src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-light-mode-only'>
   <img src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-light-mode-only'>
 </p>
-
-
 
 
