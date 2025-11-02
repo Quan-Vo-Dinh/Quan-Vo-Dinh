@@ -11,8 +11,6 @@
 
 
 ### :zap: GitHub Stats
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/aca31014-1bb4-4561-85a9-a6a06f28e22c" align="right" />
-
 
 <p align="center">
   <img width="400" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/overview.svg#gh-dark-mode-only'>
@@ -21,4 +19,4 @@
   <img width="400" src='https://github.com/Quan-Vo-Dinh/GitHub-Stats-Visualization/blob/master/generated/languages.svg#gh-light-mode-only'>
 </p>
 
-
+<img alt="image" src="https://github.com/user-attachments/assets/aca31014-1bb4-4561-85a9-a6a06f28e22c" width="100%" />
