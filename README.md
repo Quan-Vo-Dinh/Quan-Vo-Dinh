@@ -9,9 +9,9 @@
 ### :zap: GitHub Stats
 
 <p align="center">
-  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats//blob/master/generated/overview.svg#gh-dark-mode-only'>
-  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats//blob/master/generated/languages.svg#gh-dark-mode-only'>
-  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats//blob/master/generated/overview.svg#gh-light-mode-only'>
-  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats//blob/master/generated/languages.svg#gh-light-mode-only'>
+  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>
+  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'>
+  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats/blob/master/generated/overview.svg#gh-light-mode-only'>
+  <img width="400" src='https://github.com/Quan-Vo-Dinh/github-stats/blob/master/generated/languages.svg#gh-light-mode-only'>
 </p>
 
